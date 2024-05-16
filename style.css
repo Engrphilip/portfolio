@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+*{
+    background-color:00215E ;
+    text-align: center;
+    font-size: 16PX;
+    font-family: 'Times New Roman', Times, serif;
+}
+a {
+    text-decoration: none;
+}
+img {
+    height: 50px;
+}
+body {
+    background-color: 00215E;
+}
